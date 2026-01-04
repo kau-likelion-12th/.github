@@ -1,12 +1,37 @@
-## Hi there 👋
+# 🦁 한국항공대학교 멋쟁이사자처럼 12기 ✈️
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+**2024. 03 - 2024. 12 | 12th Generation**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+---
+
+## 👑 운영진
+
+**회장**  
+이희정 (jjeongee) - Full Stack
+
+**부회장**  
+정원정 (loopy) - Frontend
+
+**운영진**  
+문채영 (Ari) - Backend  
+신윤종 (Vettel) - Backend  
+
+---
+
+## 🦁 13기 아기사자
+
+강채성 (Elon) · 고태훈 (oreo) · 김정환 (KAI)  
+권수현 (sua) · 박성재 (sunggae) · 서준영 (Ryctim)  
+이나경 (Niicka) · 전유안 (yaan) · 차정은 (eltanin)  
+
+---
+
+<div align="center">
+
+**🚀 Total 13 Members | 운영진 4 · 아기사자 9**
+
+</div>
